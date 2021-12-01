@@ -1,0 +1,1492 @@
+local GUICHBS = Instance.new("ScreenGui")
+local CHBSFR = Instance.new("Frame")
+local TextLabel = Instance.new("TextLabel")
+local UICorner = Instance.new("UICorner")
+local CHBSLISTSEL = Instance.new("Frame")
+local UICorner_2 = Instance.new("UICorner")
+local WordsButton = Instance.new("TextButton")
+local UICorner_3 = Instance.new("UICorner")
+local WordsFrame = Instance.new("Frame")
+local UICorner_4 = Instance.new("UICorner")
+local FuckButton = Instance.new("TextButton")
+local UICorner_5 = Instance.new("UICorner")
+local ShitButton = Instance.new("TextButton")
+local UICorner_6 = Instance.new("UICorner")
+local BitchButton = Instance.new("TextButton")
+local UICorner_7 = Instance.new("UICorner")
+local DickButton = Instance.new("TextButton")
+local UICorner_8 = Instance.new("UICorner")
+local BoobsButton = Instance.new("TextButton")
+local UICorner_9 = Instance.new("UICorner")
+local AssButton = Instance.new("TextButton")
+local UICorner_10 = Instance.new("UICorner")
+local FaggotButton = Instance.new("TextButton")
+local UICorner_11 = Instance.new("UICorner")
+local NiggaButton = Instance.new("TextButton")
+local UICorner_12 = Instance.new("UICorner")
+local DumbassButton = Instance.new("TextButton")
+local UICorner_13 = Instance.new("UICorner")
+local BitchassButton = Instance.new("TextButton")
+local UICorner_14 = Instance.new("UICorner")
+local DeezNutsButton = Instance.new("TextButton")
+local UICorner_15 = Instance.new("UICorner")
+local AssholeButton = Instance.new("TextButton")
+local UICorner_16 = Instance.new("UICorner")
+local HoeButton = Instance.new("TextButton")
+local UICorner_17 = Instance.new("UICorner")
+local CockButton = Instance.new("TextButton")
+local UICorner_18 = Instance.new("UICorner")
+local WhoreButton = Instance.new("TextButton")
+local UICorner_19 = Instance.new("UICorner")
+local CuntButton = Instance.new("TextButton")
+local UICorner_20 = Instance.new("UICorner")
+local WordsCAPSButton = Instance.new("TextButton")
+local UICorner_21 = Instance.new("UICorner")
+local SentencesButton = Instance.new("TextButton")
+local UICorner_22 = Instance.new("UICorner")
+local SentencesCAPSButton = Instance.new("TextButton")
+local UICorner_23 = Instance.new("UICorner")
+local WordsCAPSFrame = Instance.new("Frame")
+local UICorner_24 = Instance.new("UICorner")
+local FuckButton_2 = Instance.new("TextButton")
+local UICorner_25 = Instance.new("UICorner")
+local ShitButton_2 = Instance.new("TextButton")
+local UICorner_26 = Instance.new("UICorner")
+local BitchButton_2 = Instance.new("TextButton")
+local UICorner_27 = Instance.new("UICorner")
+local DickButton_2 = Instance.new("TextButton")
+local UICorner_28 = Instance.new("UICorner")
+local BoobsButton_2 = Instance.new("TextButton")
+local UICorner_29 = Instance.new("UICorner")
+local NiggaButton_2 = Instance.new("TextButton")
+local UICorner_30 = Instance.new("UICorner")
+local AssButton_2 = Instance.new("TextButton")
+local UICorner_31 = Instance.new("UICorner")
+local FaggotButton_2 = Instance.new("TextButton")
+local UICorner_32 = Instance.new("UICorner")
+local DeezNutsButton_2 = Instance.new("TextButton")
+local UICorner_33 = Instance.new("UICorner")
+local AssholeButton_2 = Instance.new("TextButton")
+local UICorner_34 = Instance.new("UICorner")
+local WhoreButton_2 = Instance.new("TextButton")
+local UICorner_35 = Instance.new("UICorner")
+local DumbassButton_2 = Instance.new("TextButton")
+local UICorner_36 = Instance.new("UICorner")
+local BitchassButton_2 = Instance.new("TextButton")
+local UICorner_37 = Instance.new("UICorner")
+local HoeButton_2 = Instance.new("TextButton")
+local UICorner_38 = Instance.new("UICorner")
+local CockButton_2 = Instance.new("TextButton")
+local UICorner_39 = Instance.new("UICorner")
+local CuntButton_2 = Instance.new("TextButton")
+local UICorner_40 = Instance.new("UICorner")
+local SentencesFrame = Instance.new("Frame")
+local UICorner_41 = Instance.new("UICorner")
+local TextButton = Instance.new("TextButton")
+local UICorner_42 = Instance.new("UICorner")
+local TextButton_2 = Instance.new("TextButton")
+local UICorner_43 = Instance.new("UICorner")
+local TextButton_3 = Instance.new("TextButton")
+local UICorner_44 = Instance.new("UICorner")
+local TextButton_4 = Instance.new("TextButton")
+local UICorner_45 = Instance.new("UICorner")
+local TextButton_5 = Instance.new("TextButton")
+local UICorner_46 = Instance.new("UICorner")
+local TextButton_6 = Instance.new("TextButton")
+local UICorner_47 = Instance.new("UICorner")
+local TextButton_7 = Instance.new("TextButton")
+local UICorner_48 = Instance.new("UICorner")
+local TextButton_8 = Instance.new("TextButton")
+local UICorner_49 = Instance.new("UICorner")
+local TextButton_9 = Instance.new("TextButton")
+local UICorner_50 = Instance.new("UICorner")
+local TextButton_10 = Instance.new("TextButton")
+local UICorner_51 = Instance.new("UICorner")
+local TextButton_11 = Instance.new("TextButton")
+local UICorner_52 = Instance.new("UICorner")
+local TextButton_12 = Instance.new("TextButton")
+local UICorner_53 = Instance.new("UICorner")
+local SentencesCAPSFrame = Instance.new("Frame")
+local UICorner_54 = Instance.new("UICorner")
+local TextLabel_2 = Instance.new("TextLabel")
+local EmojiArtButton = Instance.new("TextButton")
+local UICorner_55 = Instance.new("UICorner")
+local EmojiArtFrame = Instance.new("Frame")
+local UICorner_56 = Instance.new("UICorner")
+local DickArtButton = Instance.new("TextButton")
+local UICorner_57 = Instance.new("UICorner")
+local BlackFaceArtButton = Instance.new("TextButton")
+local UICorner_58 = Instance.new("UICorner")
+local LArtButton = Instance.new("TextButton")
+local UICorner_59 = Instance.new("UICorner")
+local UICorner_60 = Instance.new("UICorner")
+local ImageLabel = Instance.new("ImageLabel")
+local UICorner_61 = Instance.new("UICorner")
+local xButton = Instance.new("TextButton")
+local UICorner_62 = Instance.new("UICorner")
+local CoreGui = game:GetService("CoreGui")
+
+
+GUICHBS.Name = "GUICHBS"
+GUICHBS.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
+GUICHBS.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+GUICHBS.ResetOnSpawn = false
+GUICHBS.Parent = game.CoreGui
+
+
+CHBSFR.Name = "CHBSFR"
+CHBSFR.Parent = GUICHBS
+CHBSFR.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+CHBSFR.Position = UDim2.new(0.0536437258, 0, 0.500802517, 0)
+CHBSFR.Size = UDim2.new(0, 459, 0, 258)
+CHBSFR.Active = true
+CHBSFR.Draggable = true
+
+TextLabel.Parent = CHBSFR
+TextLabel.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+TextLabel.Position = UDim2.new(0.215686277, 0, 0, 0)
+TextLabel.Size = UDim2.new(0, 261, 0, 29)
+TextLabel.Font = Enum.Font.GothamBlack
+TextLabel.Text = "Chat Bypass"
+TextLabel.TextColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel.TextScaled = true
+TextLabel.TextSize = 14.000
+TextLabel.TextWrapped = true
+
+UICorner.Parent = TextLabel
+
+CHBSLISTSEL.Name = "CHBSLISTSEL"
+CHBSLISTSEL.Parent = CHBSFR
+CHBSLISTSEL.BackgroundColor3 = Color3.fromRGB(50, 50, 50)
+CHBSLISTSEL.Position = UDim2.new(0.0196078438, 0, 0.162790701, 0)
+CHBSLISTSEL.Size = UDim2.new(0, 82, 0, 204)
+
+UICorner_2.Parent = CHBSLISTSEL
+
+WordsButton.Name = "WordsButton"
+WordsButton.Parent = CHBSLISTSEL
+WordsButton.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+WordsButton.Size = UDim2.new(0, 82, 0, 33)
+WordsButton.Font = Enum.Font.GothamBlack
+WordsButton.Text = "Words"
+WordsButton.TextColor3 = Color3.fromRGB(0, 0, 0)
+WordsButton.TextScaled = true
+WordsButton.TextSize = 14.000
+WordsButton.TextWrapped = true
+
+UICorner_3.Parent = WordsButton
+
+WordsFrame.Name = "WordsFrame"
+WordsFrame.Parent = CHBSLISTSEL
+WordsFrame.BackgroundColor3 = Color3.fromRGB(50, 50, 50)
+WordsFrame.Position = UDim2.new(1.09155643, 0, -0.00387597084, 0)
+WordsFrame.Size = UDim2.new(0, 349, 0, 204)
+
+UICorner_4.Parent = WordsFrame
+
+FuckButton.Name = "FuckButton"
+FuckButton.Parent = WordsFrame
+FuckButton.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+FuckButton.Position = UDim2.new(0.037249282, 0, 0.0490196086, 0)
+FuckButton.Size = UDim2.new(0, 67, 0, 31)
+FuckButton.Font = Enum.Font.GothamBlack
+FuckButton.Text = "Fuck"
+FuckButton.TextColor3 = Color3.fromRGB(0, 0, 0)
+FuckButton.TextScaled = true
+FuckButton.TextSize = 14.000
+FuckButton.TextWrapped = true
+FuckButton.MouseButton1Down:Connect(function()
+	local args = {
+		[1] = "ff\240\144\140\145\240\144\140\145\240\144\140\145u\240\144\140\145\240\144\140\145\240\144\140\145c" ..
+			"\240\144\140\145\240\144\140\145\240\144\140\145k ",
+		[2] = "All"
+	}
+
+	game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+end)
+
+UICorner_5.Parent = FuckButton
+
+ShitButton.Name = "ShitButton"
+ShitButton.Parent = WordsFrame
+ShitButton.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+ShitButton.Position = UDim2.new(0.037249282, 0, 0.289215714, 0)
+ShitButton.Size = UDim2.new(0, 67, 0, 31)
+ShitButton.Font = Enum.Font.GothamBlack
+ShitButton.Text = "Shit"
+ShitButton.TextColor3 = Color3.fromRGB(0, 0, 0)
+ShitButton.TextScaled = true
+ShitButton.TextSize = 14.000
+ShitButton.TextWrapped = true
+ShitButton.MouseButton1Down:Connect(function()
+	local args = {
+		[1] = " Sh \240\144\140\145 \205\156 \205\163 it ",
+		[2] = "All"
+	}
+
+	game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+end)
+
+UICorner_6.Parent = ShitButton
+
+BitchButton.Name = "BitchButton"
+BitchButton.Parent = WordsFrame
+BitchButton.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+BitchButton.Position = UDim2.new(0.037249282, 0, 0.54411763, 0)
+BitchButton.Size = UDim2.new(0, 67, 0, 31)
+BitchButton.Font = Enum.Font.GothamBlack
+BitchButton.Text = "Bitch"
+BitchButton.TextColor3 = Color3.fromRGB(0, 0, 0)
+BitchButton.TextScaled = true
+BitchButton.TextSize = 14.000
+BitchButton.TextWrapped = true
+BitchButton.MouseButton1Down:Connect(function()
+	local args = {
+		[1] = " Bi \240\144\140\145 \205\156 \205\163 tc  \240\144\140\145 \205\156 \205\163 h ",
+		[2] = "All"
+	}
+
+	game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+end)
+
+UICorner_7.Parent = BitchButton
+
+DickButton.Name = "DickButton"
+DickButton.Parent = WordsFrame
+DickButton.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+DickButton.Position = UDim2.new(0.037249282, 0, 0.799019575, 0)
+DickButton.Size = UDim2.new(0, 67, 0, 31)
+DickButton.Font = Enum.Font.GothamBlack
+DickButton.Text = "Dick"
+DickButton.TextColor3 = Color3.fromRGB(0, 0, 0)
+DickButton.TextScaled = true
+DickButton.TextSize = 14.000
+DickButton.TextWrapped = true
+DickButton.MouseButton1Down:Connect(function()
+	local args = {
+		[1] = " Di \240\144\140\145 \205\156 \205\163 ck ",
+		[2] = "All"
+	}
+
+	game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+end)
+
+UICorner_8.Parent = DickButton
+
+BoobsButton.Name = "BoobsButton"
+BoobsButton.Parent = WordsFrame
+BoobsButton.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+BoobsButton.Position = UDim2.new(0.277936965, 0, 0.54411763, 0)
+BoobsButton.Size = UDim2.new(0, 67, 0, 31)
+BoobsButton.Font = Enum.Font.GothamBlack
+BoobsButton.Text = "Boobs"
+BoobsButton.TextColor3 = Color3.fromRGB(0, 0, 0)
+BoobsButton.TextScaled = true
+BoobsButton.TextSize = 14.000
+BoobsButton.TextWrapped = true
+BoobsButton.MouseButton1Down:Connect(function()
+	local args = {
+		[1] = " Bo \240\144\140\145 \205\156 \205\163 ob  \240\144\140\145 \205\156 \205\163 s ",
+		[2] = "All"
+	}
+
+	game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+end)
+
+
+UICorner_9.Parent = BoobsButton
+
+AssButton.Name = "AssButton"
+AssButton.Parent = WordsFrame
+AssButton.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+AssButton.Position = UDim2.new(0.277936965, 0, 0.799019575, 0)
+AssButton.Size = UDim2.new(0, 67, 0, 31)
+AssButton.Font = Enum.Font.GothamBlack
+AssButton.Text = "Ass"
+AssButton.TextColor3 = Color3.fromRGB(0, 0, 0)
+AssButton.TextScaled = true
+AssButton.TextSize = 14.000
+AssButton.TextWrapped = true
+AssButton.MouseButton1Down:Connect(function()
+	local args = {
+		[1] = " as  \240\144\140\145 \205\156 \205\163 s ",
+		[2] = "All"
+	}
+
+	game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+end)
+
+
+UICorner_10.Parent = AssButton
+
+FaggotButton.Name = "FaggotButton"
+FaggotButton.Parent = WordsFrame
+FaggotButton.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+FaggotButton.Position = UDim2.new(0.277936965, 0, 0.289215714, 0)
+FaggotButton.Size = UDim2.new(0, 67, 0, 31)
+FaggotButton.Font = Enum.Font.GothamBlack
+FaggotButton.Text = "Faggot"
+FaggotButton.TextColor3 = Color3.fromRGB(0, 0, 0)
+FaggotButton.TextScaled = true
+FaggotButton.TextSize = 14.000
+FaggotButton.TextWrapped = true
+FaggotButton.MouseButton1Down:Connect(function()
+	local args = {
+		[1] = "ff \240\144\140\145 \205\156 \205\163 agg \240\144\140\145 \205\156 \205\163 ot ",
+		[2] = "All"
+	}
+
+	game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+end)
+
+UICorner_11.Parent = FaggotButton
+
+NiggaButton.Name = "NiggaButton"
+NiggaButton.Parent = WordsFrame
+NiggaButton.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+NiggaButton.Position = UDim2.new(0.277936965, 0, 0.0490196086, 0)
+NiggaButton.Size = UDim2.new(0, 67, 0, 31)
+NiggaButton.Font = Enum.Font.GothamBlack
+NiggaButton.Text = "Nigga"
+NiggaButton.TextColor3 = Color3.fromRGB(0, 0, 0)
+NiggaButton.TextScaled = true
+NiggaButton.TextSize = 14.000
+NiggaButton.TextWrapped = true
+NiggaButton.MouseButton1Down:Connect(function()
+	local args = {
+		[1] = "n \240\144\140\145 \205\156 \205\163 igg \240\144\140\145 \205\156 \205\163 a ",
+		[2] = "All"
+	}
+
+	game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+end)
+
+UICorner_12.Parent = NiggaButton
+
+DumbassButton.Name = "DumbassButton"
+DumbassButton.Parent = WordsFrame
+DumbassButton.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+DumbassButton.Position = UDim2.new(0.756446958, 0, 0.54411763, 0)
+DumbassButton.Size = UDim2.new(0, 67, 0, 31)
+DumbassButton.Font = Enum.Font.GothamBlack
+DumbassButton.Text = "Dumbass"
+DumbassButton.TextColor3 = Color3.fromRGB(0, 0, 0)
+DumbassButton.TextScaled = true
+DumbassButton.TextSize = 14.000
+DumbassButton.TextWrapped = true
+DumbassButton.MouseButton1Down:Connect(function()
+	local args = {
+		[1] = " Du \240\144\140\145 \205\156 \205\163 mb  as  \240\144\140\145 \205\156 \205\163 s ",
+		[2] = "All"
+	}
+
+	game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+end)
+
+UICorner_13.Parent = DumbassButton
+
+BitchassButton.Name = "BitchassButton"
+BitchassButton.Parent = WordsFrame
+BitchassButton.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+BitchassButton.Position = UDim2.new(0.756446958, 0, 0.799019575, 0)
+BitchassButton.Size = UDim2.new(0, 67, 0, 31)
+BitchassButton.Font = Enum.Font.GothamBlack
+BitchassButton.Text = "Bitchass"
+BitchassButton.TextColor3 = Color3.fromRGB(0, 0, 0)
+BitchassButton.TextScaled = true
+BitchassButton.TextSize = 14.000
+BitchassButton.TextWrapped = true
+BitchassButton.MouseButton1Down:Connect(function()
+	local args = {
+		[1] = " Bi \240\144\140\145 \205\156 \205\163 tc \240\144\140\145 \205\156 \205\163 ha \240\144\140\145 \205" ..
+			"\156 \205\163 ss ",
+		[2] = "All"
+	}
+
+	game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+end)
+
+UICorner_14.Parent = BitchassButton
+
+DeezNutsButton.Name = "DeezNutsButton"
+DeezNutsButton.Parent = WordsFrame
+DeezNutsButton.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+DeezNutsButton.Position = UDim2.new(0.756446958, 0, 0.289215714, 0)
+DeezNutsButton.Size = UDim2.new(0, 67, 0, 31)
+DeezNutsButton.Font = Enum.Font.GothamBlack
+DeezNutsButton.Text = "Deez nuts"
+DeezNutsButton.TextColor3 = Color3.fromRGB(0, 0, 0)
+DeezNutsButton.TextScaled = true
+DeezNutsButton.TextSize = 14.000
+DeezNutsButton.TextWrapped = true
+DeezNutsButton.MouseButton1Down:Connect(function()
+	local args = {
+		[1] = " De \240\144\140\145 \205\156 \205\163 ez  nu \240\144\140\145 \205\156 \205\163 ts ",
+		[2] = "All"
+	}
+
+	game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+end)
+
+
+UICorner_15.Parent = DeezNutsButton
+
+AssholeButton.Name = "AssholeButton"
+AssholeButton.Parent = WordsFrame
+AssholeButton.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+AssholeButton.Position = UDim2.new(0.756446958, 0, 0.0490196086, 0)
+AssholeButton.Size = UDim2.new(0, 67, 0, 31)
+AssholeButton.Font = Enum.Font.GothamBlack
+AssholeButton.Text = "Asshole"
+AssholeButton.TextColor3 = Color3.fromRGB(0, 0, 0)
+AssholeButton.TextScaled = true
+AssholeButton.TextSize = 14.000
+AssholeButton.TextWrapped = true
+AssholeButton.MouseButton1Down:Connect(function()
+	local args = {
+		[1] = " as  \240\144\140\145 \205\156 \205\163 s  \240\144\140\145 \205\156 \205\163 h  ol  \240\144\140\145" ..
+			" \205\156 \205\163 e ",
+		[2] = "All"
+	}
+
+	game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+end)
+
+UICorner_16.Parent = AssholeButton
+
+HoeButton.Name = "HoeButton"
+HoeButton.Parent = WordsFrame
+HoeButton.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+HoeButton.Position = UDim2.new(0.515759289, 0, 0.0490196086, 0)
+HoeButton.Size = UDim2.new(0, 67, 0, 31)
+HoeButton.Font = Enum.Font.GothamBlack
+HoeButton.Text = "Hoe"
+HoeButton.TextColor3 = Color3.fromRGB(0, 0, 0)
+HoeButton.TextScaled = true
+HoeButton.TextSize = 14.000
+HoeButton.TextWrapped = true
+HoeButton.MouseButton1Down:Connect(function()
+	local args = {
+		[1] = " ho  \240\144\140\145 \205\156 \205\163 e ",
+		[2] = "All"
+	}
+
+	game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+end)
+
+UICorner_17.Parent = HoeButton
+
+CockButton.Name = "CockButton"
+CockButton.Parent = WordsFrame
+CockButton.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+CockButton.Position = UDim2.new(0.515759289, 0, 0.289215714, 0)
+CockButton.Size = UDim2.new(0, 67, 0, 31)
+CockButton.Font = Enum.Font.GothamBlack
+CockButton.Text = "Cock"
+CockButton.TextColor3 = Color3.fromRGB(0, 0, 0)
+CockButton.TextScaled = true
+CockButton.TextSize = 14.000
+CockButton.TextWrapped = true
+CockButton.MouseButton1Down:Connect(function()
+	local args = {
+		[1] = "cc \240\144\140\145 \205\156 \205\163 ock ",
+		[2] = "All"
+	}
+
+	game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+end)
+
+UICorner_18.Parent = CockButton
+
+WhoreButton.Name = "WhoreButton"
+WhoreButton.Parent = WordsFrame
+WhoreButton.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+WhoreButton.Position = UDim2.new(0.515759289, 0, 0.54411763, 0)
+WhoreButton.Size = UDim2.new(0, 67, 0, 31)
+WhoreButton.Font = Enum.Font.GothamBlack
+WhoreButton.Text = "Whore"
+WhoreButton.TextColor3 = Color3.fromRGB(0, 0, 0)
+WhoreButton.TextScaled = true
+WhoreButton.TextSize = 14.000
+WhoreButton.TextWrapped = true
+WhoreButton.MouseButton1Down:Connect(function()
+	local args = {
+		[1] = " Wh \240\144\140\145 \205\156 \205\163 or  \240\144\140\145 \205\156 \205\163 e ",
+		[2] = "All"
+	}
+
+	game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+end)
+
+UICorner_19.Parent = WhoreButton
+
+CuntButton.Name = "CuntButton"
+CuntButton.Parent = WordsFrame
+CuntButton.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+CuntButton.Position = UDim2.new(0.515759289, 0, 0.799019575, 0)
+CuntButton.Size = UDim2.new(0, 67, 0, 31)
+CuntButton.Font = Enum.Font.GothamBlack
+CuntButton.Text = "Cunt"
+CuntButton.TextColor3 = Color3.fromRGB(0, 0, 0)
+CuntButton.TextScaled = true
+CuntButton.TextSize = 14.000
+CuntButton.TextWrapped = true
+CuntButton.MouseButton1Down:Connect(function()
+	local args = {
+		[1] = "c \240\144\140\145 \205\156 \205\163 unt ",
+		[2] = "All"
+	}
+
+	game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+end)
+
+UICorner_20.Parent = CuntButton
+
+WordsCAPSButton.Name = "WordsCAPSButton"
+WordsCAPSButton.Parent = CHBSLISTSEL
+WordsCAPSButton.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+WordsCAPSButton.Position = UDim2.new(0, 0, 0.215686247, 0)
+WordsCAPSButton.Size = UDim2.new(0, 82, 0, 31)
+WordsCAPSButton.Font = Enum.Font.GothamBlack
+WordsCAPSButton.Text = "Words(CAPS LOCK)"
+WordsCAPSButton.TextColor3 = Color3.fromRGB(0, 0, 0)
+WordsCAPSButton.TextScaled = true
+WordsCAPSButton.TextSize = 14.000
+WordsCAPSButton.TextWrapped = true
+
+UICorner_21.Parent = WordsCAPSButton
+
+SentencesButton.Name = "SentencesButton"
+SentencesButton.Parent = CHBSLISTSEL
+SentencesButton.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+SentencesButton.Position = UDim2.new(0, 0, 0.637254834, 0)
+SentencesButton.Size = UDim2.new(0, 82, 0, 34)
+SentencesButton.Font = Enum.Font.GothamBlack
+SentencesButton.Text = "Sentences"
+SentencesButton.TextColor3 = Color3.fromRGB(0, 0, 0)
+SentencesButton.TextScaled = true
+SentencesButton.TextSize = 14.000
+SentencesButton.TextWrapped = true
+
+UICorner_22.Parent = SentencesButton
+
+SentencesCAPSButton.Name = "SentencesCAPSButton"
+SentencesCAPSButton.Parent = CHBSLISTSEL
+SentencesCAPSButton.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+SentencesCAPSButton.Position = UDim2.new(0, 0, 0.84803921, 0)
+SentencesCAPSButton.Size = UDim2.new(0, 82, 0, 31)
+SentencesCAPSButton.Font = Enum.Font.GothamBlack
+SentencesCAPSButton.Text = "Sentences(CAPS LOCK)"
+SentencesCAPSButton.TextColor3 = Color3.fromRGB(0, 0, 0)
+SentencesCAPSButton.TextScaled = true
+SentencesCAPSButton.TextSize = 14.000
+SentencesCAPSButton.TextWrapped = true
+
+UICorner_23.Parent = SentencesCAPSButton
+
+WordsCAPSFrame.Name = "WordsCAPSFrame"
+WordsCAPSFrame.Parent = CHBSLISTSEL
+WordsCAPSFrame.BackgroundColor3 = Color3.fromRGB(50, 50, 50)
+WordsCAPSFrame.Position = UDim2.new(1.09155643, 0, -0.00387597084, 0)
+WordsCAPSFrame.Size = UDim2.new(0, 349, 0, 204)
+WordsCAPSFrame.Visible = false
+
+UICorner_24.Parent = WordsCAPSFrame
+
+FuckButton_2.Name = "FuckButton"
+FuckButton_2.Parent = WordsCAPSFrame
+FuckButton_2.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+FuckButton_2.Position = UDim2.new(0.037249282, 0, 0.0490196086, 0)
+FuckButton_2.Size = UDim2.new(0, 67, 0, 31)
+FuckButton_2.Font = Enum.Font.GothamBlack
+FuckButton_2.Text = "FUCK"
+FuckButton_2.TextColor3 = Color3.fromRGB(0, 0, 0)
+FuckButton_2.TextScaled = true
+FuckButton_2.TextSize = 14.000
+FuckButton_2.TextWrapped = true
+FuckButton_2.MouseButton1Down:Connect(function()
+	local args = {
+		[1] = " FU  \240\144\140\145 \205\156 \205\163 C  \240\144\140\145 \205\156 \205\163 K ",
+		[2] = "All"
+	}
+
+	game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+end)
+
+UICorner_25.Parent = FuckButton_2
+
+ShitButton_2.Name = "ShitButton"
+ShitButton_2.Parent = WordsCAPSFrame
+ShitButton_2.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+ShitButton_2.Position = UDim2.new(0.037249282, 0, 0.289215714, 0)
+ShitButton_2.Size = UDim2.new(0, 67, 0, 31)
+ShitButton_2.Font = Enum.Font.GothamBlack
+ShitButton_2.Text = "SHIT"
+ShitButton_2.TextColor3 = Color3.fromRGB(0, 0, 0)
+ShitButton_2.TextScaled = true
+ShitButton_2.TextSize = 14.000
+ShitButton_2.TextWrapped = true
+ShitButton_2.MouseButton1Down:Connect(function()
+	local args = {
+		[1] = " SH \240\144\140\145 \205\156 \205\163 IT ",
+		[2] = "All"
+	}
+
+	game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+end)
+
+UICorner_26.Parent = ShitButton_2
+
+BitchButton_2.Name = "BitchButton"
+BitchButton_2.Parent = WordsCAPSFrame
+BitchButton_2.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+BitchButton_2.Position = UDim2.new(0.037249282, 0, 0.54411763, 0)
+BitchButton_2.Size = UDim2.new(0, 67, 0, 31)
+BitchButton_2.Font = Enum.Font.GothamBlack
+BitchButton_2.Text = "BITCH"
+BitchButton_2.TextColor3 = Color3.fromRGB(0, 0, 0)
+BitchButton_2.TextScaled = true
+BitchButton_2.TextSize = 14.000
+BitchButton_2.TextWrapped = true
+BitchButton_2.MouseButton1Down:Connect(function()
+	local args = {
+		[1] = " BI \240\144\140\145 \205\156 \205\163 TC  \240\144\140\145 \205\156 \205\163 H ",
+		[2] = "All"
+	}
+
+	game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+end)
+
+UICorner_27.Parent = BitchButton_2
+
+DickButton_2.Name = "DickButton"
+DickButton_2.Parent = WordsCAPSFrame
+DickButton_2.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+DickButton_2.Position = UDim2.new(0.037249282, 0, 0.799019575, 0)
+DickButton_2.Size = UDim2.new(0, 67, 0, 31)
+DickButton_2.Font = Enum.Font.GothamBlack
+DickButton_2.Text = "DICK"
+DickButton_2.TextColor3 = Color3.fromRGB(0, 0, 0)
+DickButton_2.TextScaled = true
+DickButton_2.TextSize = 14.000
+DickButton_2.TextWrapped = true
+DickButton_2.MouseButton1Down:Connect(function()
+	local args = {
+		[1] = " DI \240\144\140\145 \205\156 \205\163 CK ",
+		[2] = "All"
+	}
+
+	game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+end)
+
+UICorner_28.Parent = DickButton_2
+
+BoobsButton_2.Name = "BoobsButton"
+BoobsButton_2.Parent = WordsCAPSFrame
+BoobsButton_2.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+BoobsButton_2.Position = UDim2.new(0.277936965, 0, 0.54411763, 0)
+BoobsButton_2.Size = UDim2.new(0, 67, 0, 31)
+BoobsButton_2.Font = Enum.Font.GothamBlack
+BoobsButton_2.Text = "BOOBS"
+BoobsButton_2.TextColor3 = Color3.fromRGB(0, 0, 0)
+BoobsButton_2.TextScaled = true
+BoobsButton_2.TextSize = 14.000
+BoobsButton_2.TextWrapped = true
+BoobsButton_2.MouseButton1Down:Connect(function()
+	local args = {
+		[1] = " BO \240\144\140\145 \205\156 \205\163 OB  \240\144\140\145 \205\156 \205\163 S ",
+		[2] = "All"
+	}
+
+	game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+end)
+
+UICorner_29.Parent = BoobsButton_2
+
+NiggaButton_2.Name = "NiggaButton"
+NiggaButton_2.Parent = WordsCAPSFrame
+NiggaButton_2.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+NiggaButton_2.Position = UDim2.new(0.277936965, 0, 0.0490196086, 0)
+NiggaButton_2.Size = UDim2.new(0, 67, 0, 31)
+NiggaButton_2.Font = Enum.Font.GothamBlack
+NiggaButton_2.Text = "NIGGA"
+NiggaButton_2.TextColor3 = Color3.fromRGB(0, 0, 0)
+NiggaButton_2.TextScaled = true
+NiggaButton_2.TextSize = 14.000
+NiggaButton_2.TextWrapped = true
+NiggaButton_2.MouseButton1Down:Connect(function()
+	local args = {
+		[1] = " NI  \240\144\140\145 \205\156 \205\163 G  GA ",
+		[2] = "All"
+	}
+
+	game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+end)
+
+UICorner_30.Parent = NiggaButton_2
+
+AssButton_2.Name = "AssButton"
+AssButton_2.Parent = WordsCAPSFrame
+AssButton_2.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+AssButton_2.Position = UDim2.new(0.277936965, 0, 0.799019575, 0)
+AssButton_2.Size = UDim2.new(0, 67, 0, 31)
+AssButton_2.Font = Enum.Font.GothamBlack
+AssButton_2.Text = "ASS"
+AssButton_2.TextColor3 = Color3.fromRGB(0, 0, 0)
+AssButton_2.TextScaled = true
+AssButton_2.TextSize = 14.000
+AssButton_2.TextWrapped = true
+AssButton_2.MouseButton1Down:Connect(function()
+	local args = {
+		[1] = " AS  \240\144\140\145 \205\156 \205\163 S ",
+		[2] = "All"
+	}
+
+	game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+end)
+
+UICorner_31.Parent = AssButton_2
+
+FaggotButton_2.Name = "FaggotButton"
+FaggotButton_2.Parent = WordsCAPSFrame
+FaggotButton_2.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+FaggotButton_2.Position = UDim2.new(0.277936965, 0, 0.289215714, 0)
+FaggotButton_2.Size = UDim2.new(0, 67, 0, 31)
+FaggotButton_2.Font = Enum.Font.GothamBlack
+FaggotButton_2.Text = "FAGGOT"
+FaggotButton_2.TextColor3 = Color3.fromRGB(0, 0, 0)
+FaggotButton_2.TextScaled = true
+FaggotButton_2.TextSize = 14.000
+FaggotButton_2.TextWrapped = true
+FaggotButton_2.MouseButton1Down:Connect(function()
+	local args = {
+		[1] = " FA  \240\144\140\145 \205\156 \205\163 G  GO  \240\144\140\145 \205\156 \205\163 T ",
+		[2] = "All"
+	}
+
+	game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+end)
+
+UICorner_32.Parent = FaggotButton_2
+
+DeezNutsButton_2.Name = "DeezNutsButton"
+DeezNutsButton_2.Parent = WordsCAPSFrame
+DeezNutsButton_2.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+DeezNutsButton_2.Position = UDim2.new(0.756446958, 0, 0.289215714, 0)
+DeezNutsButton_2.Size = UDim2.new(0, 67, 0, 31)
+DeezNutsButton_2.Font = Enum.Font.GothamBlack
+DeezNutsButton_2.Text = "DEEZ NUTS"
+DeezNutsButton_2.TextColor3 = Color3.fromRGB(0, 0, 0)
+DeezNutsButton_2.TextScaled = true
+DeezNutsButton_2.TextSize = 14.000
+DeezNutsButton_2.TextWrapped = true
+DeezNutsButton_2.MouseButton1Down:Connect(function()
+	local args = {
+		[1] = " DE \240\144\140\145 \205\156 \205\163 EZ  NU \240\144\140\145 \205\156 \205\163 TS ",
+		[2] = "All"
+	}
+
+	game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+end)
+
+UICorner_33.Parent = DeezNutsButton_2
+
+AssholeButton_2.Name = "AssholeButton"
+AssholeButton_2.Parent = WordsCAPSFrame
+AssholeButton_2.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+AssholeButton_2.Position = UDim2.new(0.756446958, 0, 0.0490196086, 0)
+AssholeButton_2.Size = UDim2.new(0, 67, 0, 31)
+AssholeButton_2.Font = Enum.Font.GothamBlack
+AssholeButton_2.Text = "ASSHOLE"
+AssholeButton_2.TextColor3 = Color3.fromRGB(0, 0, 0)
+AssholeButton_2.TextScaled = true
+AssholeButton_2.TextSize = 14.000
+AssholeButton_2.TextWrapped = true
+AssholeButton_2.MouseButton1Down:Connect(function()
+	local args = {
+		[1] = " AS  \240\144\140\145 \205\156 \205\163 S  \240\144\140\145 \205\156 \205\163 H  OL  \240\144\140\145" ..
+			" \205\156 \205\163 E ",
+		[2] = "All"
+	}
+
+	game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+end)
+
+UICorner_34.Parent = AssholeButton_2
+
+WhoreButton_2.Name = "WhoreButton"
+WhoreButton_2.Parent = WordsCAPSFrame
+WhoreButton_2.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+WhoreButton_2.Position = UDim2.new(0.515759289, 0, 0.54411763, 0)
+WhoreButton_2.Size = UDim2.new(0, 67, 0, 31)
+WhoreButton_2.Font = Enum.Font.GothamBlack
+WhoreButton_2.Text = "WHORE"
+WhoreButton_2.TextColor3 = Color3.fromRGB(0, 0, 0)
+WhoreButton_2.TextScaled = true
+WhoreButton_2.TextSize = 14.000
+WhoreButton_2.TextWrapped = true
+WhoreButton_2.MouseButton1Down:Connect(function()
+	local args = {
+		[1] = " WH \240\144\140\145 \205\156 \205\163 OR  \240\144\140\145 \205\156 \205\163 E ",
+		[2] = "All"
+	}
+
+	game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+end)
+
+UICorner_35.Parent = WhoreButton_2
+
+DumbassButton_2.Name = "DumbassButton"
+DumbassButton_2.Parent = WordsCAPSFrame
+DumbassButton_2.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+DumbassButton_2.Position = UDim2.new(0.756446958, 0, 0.54411763, 0)
+DumbassButton_2.Size = UDim2.new(0, 67, 0, 31)
+DumbassButton_2.Font = Enum.Font.GothamBlack
+DumbassButton_2.Text = "DUMBASS"
+DumbassButton_2.TextColor3 = Color3.fromRGB(0, 0, 0)
+DumbassButton_2.TextScaled = true
+DumbassButton_2.TextSize = 14.000
+DumbassButton_2.TextWrapped = true
+DumbassButton_2.MouseButton1Down:Connect(function()
+	local args = {
+		[1] = " DU  MB  AS  \240\144\140\145 \205\156 \205\163 S ",
+		[2] = "All"
+	}
+
+	game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+end)
+
+UICorner_36.Parent = DumbassButton_2
+
+BitchassButton_2.Name = "BitchassButton"
+BitchassButton_2.Parent = WordsCAPSFrame
+BitchassButton_2.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+BitchassButton_2.Position = UDim2.new(0.756446958, 0, 0.799019575, 0)
+BitchassButton_2.Size = UDim2.new(0, 67, 0, 31)
+BitchassButton_2.Font = Enum.Font.GothamBlack
+BitchassButton_2.Text = "BITCHASS"
+BitchassButton_2.TextColor3 = Color3.fromRGB(0, 0, 0)
+BitchassButton_2.TextScaled = true
+BitchassButton_2.TextSize = 14.000
+BitchassButton_2.TextWrapped = true
+BitchassButton_2.MouseButton1Down:Connect(function()
+	local args = {
+		[1] = " BI \240\144\140\145 \205\156 \205\163 TC \240\144\140\145 \205\156 \205\163 HA \240\144\140\145 \205" ..
+			"\156 \205\163 SS ",
+		[2] = "All"
+	}
+
+	game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+end)
+
+UICorner_37.Parent = BitchassButton_2
+
+HoeButton_2.Name = "HoeButton"
+HoeButton_2.Parent = WordsCAPSFrame
+HoeButton_2.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+HoeButton_2.Position = UDim2.new(0.515759289, 0, 0.0490196086, 0)
+HoeButton_2.Size = UDim2.new(0, 67, 0, 31)
+HoeButton_2.Font = Enum.Font.GothamBlack
+HoeButton_2.Text = "HOE"
+HoeButton_2.TextColor3 = Color3.fromRGB(0, 0, 0)
+HoeButton_2.TextScaled = true
+HoeButton_2.TextSize = 14.000
+HoeButton_2.TextWrapped = true
+HoeButton_2.MouseButton1Down:Connect(function()
+	local args = {
+		[1] = " HO  \240\144\140\145 \205\156 \205\163 E ",
+		[2] = "All"
+	}
+
+	game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+end)
+
+UICorner_38.Parent = HoeButton_2
+
+CockButton_2.Name = "CockButton"
+CockButton_2.Parent = WordsCAPSFrame
+CockButton_2.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+CockButton_2.Position = UDim2.new(0.515759289, 0, 0.289215714, 0)
+CockButton_2.Size = UDim2.new(0, 67, 0, 31)
+CockButton_2.Font = Enum.Font.GothamBlack
+CockButton_2.Text = "COCK"
+CockButton_2.TextColor3 = Color3.fromRGB(0, 0, 0)
+CockButton_2.TextScaled = true
+CockButton_2.TextSize = 14.000
+CockButton_2.TextWrapped = true
+CockButton_2.MouseButton1Down:Connect(function()
+	local args = {
+		[1] = " \240\144\140\145 \205\156 \205\163 C  OC  \240\144\140\145 \205\156 \205\163 K ",
+		[2] = "All"
+	}
+
+	game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+end)
+
+UICorner_39.Parent = CockButton_2
+
+CuntButton_2.Name = "CuntButton"
+CuntButton_2.Parent = WordsCAPSFrame
+CuntButton_2.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+CuntButton_2.Position = UDim2.new(0.515759289, 0, 0.799019575, 0)
+CuntButton_2.Size = UDim2.new(0, 67, 0, 31)
+CuntButton_2.Font = Enum.Font.GothamBlack
+CuntButton_2.Text = "CUNT"
+CuntButton_2.TextColor3 = Color3.fromRGB(0, 0, 0)
+CuntButton_2.TextScaled = true
+CuntButton_2.TextSize = 14.000
+CuntButton_2.TextWrapped = true
+CuntButton_2.MouseButton1Down:Connect(function()
+	local args = {
+		[1] = " \240\144\140\145 \205\156 \205\163 C  UN  \240\144\140\145 \205\156 \205\163 T ",
+		[2] = "All"
+	}
+
+	game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+end)
+
+UICorner_40.Parent = CuntButton_2
+
+SentencesFrame.Name = "SentencesFrame"
+SentencesFrame.Parent = CHBSLISTSEL
+SentencesFrame.BackgroundColor3 = Color3.fromRGB(50, 50, 50)
+SentencesFrame.Position = UDim2.new(1.09155643, 0, -0.00387597084, 0)
+SentencesFrame.Size = UDim2.new(0, 349, 0, 204)
+SentencesFrame.Visible = false
+
+UICorner_41.Parent = SentencesFrame
+
+TextButton.Parent = SentencesFrame
+TextButton.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+TextButton.Position = UDim2.new(0.0286532957, 0, 0.0392156877, 0)
+TextButton.Size = UDim2.new(0, 100, 0, 33)
+TextButton.Font = Enum.Font.GothamBlack
+TextButton.Text = "Shut the fuck up"
+TextButton.TextColor3 = Color3.fromRGB(0, 0, 0)
+TextButton.TextScaled = true
+TextButton.TextSize = 14.000
+TextButton.TextWrapped = true
+TextButton.MouseButton1Down:Connect(function()
+	local args = {
+		[1] = " Sh \240\144\140\145 \205\156 \205\163 ut  \240\144\140\145 \205\156 \205\163 t  he ff\240\144\140\145" ..
+			"\240\144\140\145\240\144\140\145u\240\144\140\145\240\144\140\145\240\144\140\145c\240" ..
+			"\144\140\145\240\144\140\145\240\144\140\145k  up ",
+		[2] = "All"
+	}
+
+	game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+end)
+
+UICorner_42.Parent = TextButton
+
+TextButton_2.Parent = SentencesFrame
+TextButton_2.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+TextButton_2.Position = UDim2.new(0.0286532957, 0, 0.269607842, 0)
+TextButton_2.Size = UDim2.new(0, 100, 0, 33)
+TextButton_2.Font = Enum.Font.GothamBlack
+TextButton_2.Text = "Shut the fuck up you nasty bitch"
+TextButton_2.TextColor3 = Color3.fromRGB(0, 0, 0)
+TextButton_2.TextScaled = true
+TextButton_2.TextSize = 14.000
+TextButton_2.TextWrapped = true
+TextButton_2.MouseButton1Down:Connect(function()
+	local args = {
+	[1] = " Sh \240\144\140\145 \205\156 \205\163 ut  \240\144\140\145 \205\156 \205\163 t  he  ff \240\144\140" ..
+		"\145 \205\156 \205\163 uc  \240\144\140\145 \205\156 \205\163 k  up  \240\144\140\145 " ..
+		"\205\156 \205\163 u  \240\144\140\145 \205\156 \205\163 y  ou  na  \240\144\140\145 \205" ..
+		"\156 \205\163 s  ty  bi \240\144\140\145 \205\156 \205\163 tc  \240\144\140\145 \205" ..
+		"\156 \205\163 h ",
+	[2] = "All"
+	}
+
+	game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+end)
+
+
+
+UICorner_43.Parent = TextButton_2
+
+TextButton_3.Parent = SentencesFrame
+TextButton_3.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+TextButton_3.Position = UDim2.new(0.0286532957, 0, 0.740196109, 0)
+TextButton_3.Size = UDim2.new(0, 100, 0, 33)
+TextButton_3.Font = Enum.Font.GothamBlack
+TextButton_3.Text = "you nasty as shit nigga"
+TextButton_3.TextColor3 = Color3.fromRGB(0, 0, 0)
+TextButton_3.TextScaled = true
+TextButton_3.TextSize = 14.000
+TextButton_3.TextWrapped = true
+TextButton_3.MouseButton1Down:Connect(function()
+	local args = {
+		[1] = " \240\144\140\145 \205\156 \205\163 u  na \240\144\140\145 \205\156 \205\163 st  \240\144\140\145 \205" ..
+			"\156 \205\163 y  as  sh \240\144\140\145 \205\156 \205\163 it n \240\144\140\145 \205" ..
+			"\156 \205\163 igg \240\144\140\145 \205\156 \205\163 a ",
+		[2] = "All"
+	}
+
+	game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+end)
+
+UICorner_44.Parent = TextButton_3
+
+TextButton_4.Parent = SentencesFrame
+TextButton_4.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+TextButton_4.Position = UDim2.new(0.0286532957, 0, 0.509803951, 0)
+TextButton_4.Size = UDim2.new(0, 100, 0, 33)
+TextButton_4.Font = Enum.Font.GothamBlack
+TextButton_4.Text = "Shut yo bitchass up"
+TextButton_4.TextColor3 = Color3.fromRGB(0, 0, 0)
+TextButton_4.TextScaled = true
+TextButton_4.TextSize = 14.000
+TextButton_4.TextWrapped = true
+TextButton_4.MouseButton1Down:Connect(function()
+	local args = {
+		[1] = " Sh \240\144\140\145 \205\156 \205\163 ut  yo  bi \240\144\140\145 \205\156 \205\163 tc \240\144\140" ..
+			"\145 \205\156 \205\163 ha \240\144\140\145 \205\156 \205\163 ss  up ",
+		[2] = "All"
+	}
+
+	game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+end)
+
+UICorner_45.Parent = TextButton_4
+
+TextButton_5.Parent = SentencesFrame
+TextButton_5.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+TextButton_5.Position = UDim2.new(0.355300844, 0, 0.740196109, 0)
+TextButton_5.Size = UDim2.new(0, 100, 0, 33)
+TextButton_5.Font = Enum.Font.GothamBlack
+TextButton_5.Text = "Shut the fuck up faggot"
+TextButton_5.TextColor3 = Color3.fromRGB(0, 0, 0)
+TextButton_5.TextScaled = true
+TextButton_5.TextSize = 14.000
+TextButton_5.TextWrapped = true
+TextButton_5.MouseButton1Down:Connect(function()
+	local args = {
+		[1] = " sh \240\144\140\145 \205\156 \205\163 ut  \240\144\140\145 \205\156 \205\163 t  he  fu  \240\144\140" ..
+			"\145 \205\156 \205\163 c  \240\144\140\145 \205\156 \205\163 k  up ff \240\144\140\145" ..
+			" \205\156 \205\163 agg \240\144\140\145 \205\156 \205\163 ot ",
+		[2] = "All"
+	}
+
+	game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+end)
+
+UICorner_46.Parent = TextButton_5
+
+TextButton_6.Parent = SentencesFrame
+TextButton_6.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+TextButton_6.Position = UDim2.new(0.355300844, 0, 0.509803951, 0)
+TextButton_6.Size = UDim2.new(0, 100, 0, 33)
+TextButton_6.Font = Enum.Font.GothamBlack
+TextButton_6.Text = "Shut yo dumb ass up"
+TextButton_6.TextColor3 = Color3.fromRGB(0, 0, 0)
+TextButton_6.TextScaled = true
+TextButton_6.TextSize = 14.000
+TextButton_6.TextWrapped = true
+TextButton_6.MouseButton1Down:Connect(function()
+	local args = {
+		[1] = " Sh \240\144\140\145 \205\156 \205\163 ut  yo  du \240\144\140\145 \205\156 \205\163 mb  as  \240\144" ..
+			"\140\145 \205\156 \205\163 s  up ",
+		[2] = "All"
+	}
+
+	game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+end)
+
+UICorner_47.Parent = TextButton_6
+
+TextButton_7.Parent = SentencesFrame
+TextButton_7.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+TextButton_7.Position = UDim2.new(0.355300844, 0, 0.269607842, 0)
+TextButton_7.Size = UDim2.new(0, 100, 0, 33)
+TextButton_7.Font = Enum.Font.GothamBlack
+TextButton_7.Text = "Nobody gives a shit"
+TextButton_7.TextColor3 = Color3.fromRGB(0, 0, 0)
+TextButton_7.TextScaled = true
+TextButton_7.TextSize = 14.000
+TextButton_7.TextWrapped = true
+TextButton_7.MouseButton1Down:Connect(function()
+	local args = {
+		[1] = " No \240\144\140\145 \205\156 \205\163 bo \240\144\140\145 \205\156 \205\163 dy  gi \240\144\140\145" ..
+			" \205\156 \205\163 ve  \240\144\140\145 \205\156 \205\163 s  \240\144\140\145 \205\156" ..
+			" \205\163 a  sh \240\144\140\145 \205\156 \205\163 it ",
+		[2] = "All"
+	}
+
+	game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+end)
+
+UICorner_48.Parent = TextButton_7
+
+TextButton_8.Parent = SentencesFrame
+TextButton_8.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+TextButton_8.Position = UDim2.new(0.355300844, 0, 0.0392156877, 0)
+TextButton_8.Size = UDim2.new(0, 100, 0, 33)
+TextButton_8.Font = Enum.Font.GothamBlack
+TextButton_8.Text = "Nobody gives a fuck"
+TextButton_8.TextColor3 = Color3.fromRGB(0, 0, 0)
+TextButton_8.TextScaled = true
+TextButton_8.TextSize = 14.000
+TextButton_8.TextWrapped = true
+TextButton_8.MouseButton1Down:Connect(function()
+	local args = {
+		[1] = " No \240\144\140\145 \205\156 \205\163 bo \240\144\140\145 \205\156 \205\163 dy  gi \240\144\140\145" ..
+			" \205\156 \205\163 ve  \240\144\140\145 \205\156 \205\163 s  \240\144\140\145 \205\156" ..
+			" \205\163 a ff\240\144\140\145\240\144\140\145\240\144\140\145u\240\144\140\145\240\144" ..
+			"\140\145\240\144\140\145c\240\144\140\145\240\144\140\145\240\144\140\145k ",
+		[2] = "All"
+	}
+
+	game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+end)
+
+
+UICorner_49.Parent = TextButton_8
+
+TextButton_9.Parent = SentencesFrame
+TextButton_9.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+TextButton_9.Position = UDim2.new(0.681948423, 0, 0.740196109, 0)
+TextButton_9.Size = UDim2.new(0, 100, 0, 33)
+TextButton_9.Font = Enum.Font.GothamBlack
+TextButton_9.Text = "Shut the fuck up you fucking lesbian ass"
+TextButton_9.TextColor3 = Color3.fromRGB(0, 0, 0)
+TextButton_9.TextScaled = true
+TextButton_9.TextSize = 14.000
+TextButton_9.TextWrapped = true
+TextButton_9.MouseButton1Down:Connect(function()
+	local args = {
+		[1] = " \240\144\140\145 \205\156 \205\163 S  hu  \240\144\140\145 \205\156 \205\163 t  \240\144\140\145 \205" ..
+			"\156 \205\163 t  he  ff \240\144\140\145 \205\156 \205\163 uc  \240\144\140\145 \205" ..
+			"\156 \205\163 k  up  \240\144\140\145 \205\156 \205\163 u  ff \240\144\140\145 \205\156" ..
+			" \205\163 uc \240\144\140\145 \205\156 \205\163 ki \240\144\140\145 \205\156 \205\163" ..
+			" ng  le \240\144\140\145 \205\156 \205\163 sb  ia  \240\144\140\145 \205\156 \205\163 " ..
+			"n  as  \240\144\140\145 \205\156 \205\163 s ",
+		[2] = "All"
+	}
+
+	game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+end)
+
+UICorner_50.Parent = TextButton_9
+
+TextButton_10.Parent = SentencesFrame
+TextButton_10.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+TextButton_10.Position = UDim2.new(0.681948423, 0, 0.509803951, 0)
+TextButton_10.Size = UDim2.new(0, 100, 0, 33)
+TextButton_10.Font = Enum.Font.GothamBlack
+TextButton_10.Text = "Shut the fuck up you fucking gay ass"
+TextButton_10.TextColor3 = Color3.fromRGB(0, 0, 0)
+TextButton_10.TextScaled = true
+TextButton_10.TextSize = 14.000
+TextButton_10.TextWrapped = true
+TextButton_10.MouseButton1Down:Connect(function()
+	local args = {
+		[1] = " \240\144\140\145 \205\156 \205\163 s  hu  \240\144\140\145 \205\156 \205\163 t  th  \240\144\140\145" ..
+			" \205\156 \205\163 e  ff \240\144\140\145 \205\156 \205\163 uc  \240\144\140\145 \205" ..
+			"\156 \205\163 k  up  \240\144\140\145 \205\156 \205\163 u  ff \240\144\140\145 \205\156" ..
+			" \205\163 uc \240\144\140\145 \205\156 \205\163 ki \240\144\140\145 \205\156 \205\163" ..
+			" ng  ga  \240\144\140\145 \205\156 \205\163 y  as  \240\144\140\145 \205\156 \205\163 " ..
+			"s ",
+		[2] = "All"
+	}
+
+	game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+end)
+
+UICorner_51.Parent = TextButton_10
+
+TextButton_11.Parent = SentencesFrame
+TextButton_11.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+TextButton_11.Position = UDim2.new(0.681948423, 0, 0.269607842, 0)
+TextButton_11.Size = UDim2.new(0, 100, 0, 33)
+TextButton_11.Font = Enum.Font.GothamBlack
+TextButton_11.Text = "Shut yo nasty ass up"
+TextButton_11.TextColor3 = Color3.fromRGB(0, 0, 0)
+TextButton_11.TextScaled = true
+TextButton_11.TextSize = 14.000
+TextButton_11.TextWrapped = true
+TextButton_11.MouseButton1Down:Connect(function()
+	local args = {
+		[1] = " Sh \240\144\140\145 \205\156 \205\163 ut  yo  na  \240\144\140\145 \205\156 \205\163 s  ty  as  \240" ..
+			"\144\140\145 \205\156 \205\163 s  up ",
+		[2] = "All"
+	}
+
+	game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+end)
+
+UICorner_52.Parent = TextButton_11
+
+TextButton_12.Parent = SentencesFrame
+TextButton_12.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+TextButton_12.Position = UDim2.new(0.681948423, 0, 0.0392156877, 0)
+TextButton_12.Size = UDim2.new(0, 100, 0, 33)
+TextButton_12.Font = Enum.Font.GothamBlack
+TextButton_12.Text = "Bitch you nasty as shit"
+TextButton_12.TextColor3 = Color3.fromRGB(0, 0, 0)
+TextButton_12.TextScaled = true
+TextButton_12.TextSize = 14.000
+TextButton_12.TextWrapped = true
+TextButton_12.MouseButton1Down:Connect(function()
+	local args = {
+		[1] = " Bi \240\144\140\145 \205\156 \205\163 tc  \240\144\140\145 \205\156 \205\163 h  yo  \240\144\140\145" ..
+			" \205\156 \205\163 u  na  \240\144\140\145 \205\156 \205\163 s  ty  as  sh \240\144\140" ..
+			"\145 \205\156 \205\163 it ",
+		[2] = "All"
+	}
+
+	game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+end)
+
+UICorner_53.Parent = TextButton_12
+
+SentencesCAPSFrame.Name = "SentencesCAPSFrame"
+SentencesCAPSFrame.Parent = CHBSLISTSEL
+SentencesCAPSFrame.BackgroundColor3 = Color3.fromRGB(50, 50, 50)
+SentencesCAPSFrame.Position = UDim2.new(1.09155643, 0, -0.00387597084, 0)
+SentencesCAPSFrame.Size = UDim2.new(0, 349, 0, 204)
+SentencesCAPSFrame.Visible = false
+
+UICorner_54.Parent = SentencesCAPSFrame
+
+TextLabel_2.Parent = SentencesCAPSFrame
+TextLabel_2.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel_2.BackgroundTransparency = 1.000
+TextLabel_2.Position = UDim2.new(0.212034389, 0, 0.180346623, 0)
+TextLabel_2.Size = UDim2.new(0, 200, 0, 101)
+TextLabel_2.Font = Enum.Font.GothamBlack
+TextLabel_2.Text = "Comming Soon!"
+TextLabel_2.TextColor3 = Color3.fromRGB(255, 255, 255)
+TextLabel_2.TextScaled = true
+TextLabel_2.TextSize = 14.000
+TextLabel_2.TextWrapped = true
+
+EmojiArtButton.Name = "EmojiArtButton"
+EmojiArtButton.Parent = CHBSLISTSEL
+EmojiArtButton.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+EmojiArtButton.Position = UDim2.new(0, 0, 0.416666597, 0)
+EmojiArtButton.Size = UDim2.new(0, 82, 0, 34)
+EmojiArtButton.Font = Enum.Font.GothamBlack
+EmojiArtButton.Text = "Emoji Art"
+EmojiArtButton.TextColor3 = Color3.fromRGB(0, 0, 0)
+EmojiArtButton.TextScaled = true
+EmojiArtButton.TextSize = 14.000
+EmojiArtButton.TextWrapped = true
+
+UICorner_55.Parent = EmojiArtButton
+
+EmojiArtFrame.Name = "EmojiArtFrame"
+EmojiArtFrame.Parent = CHBSLISTSEL
+EmojiArtFrame.BackgroundColor3 = Color3.fromRGB(50, 50, 50)
+EmojiArtFrame.Position = UDim2.new(1.09155643, 0, -0.00387597084, 0)
+EmojiArtFrame.Size = UDim2.new(0, 349, 0, 204)
+EmojiArtFrame.Visible = false
+
+UICorner_56.Parent = EmojiArtFrame
+
+DickArtButton.Name = "DickArtButton"
+DickArtButton.Parent = EmojiArtFrame
+DickArtButton.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+DickArtButton.Position = UDim2.new(0.214899704, 0, 0.0441176482, 0)
+DickArtButton.Size = UDim2.new(0, 198, 0, 24)
+DickArtButton.Font = Enum.Font.GothamBlack
+DickArtButton.Text = "Dick"
+DickArtButton.TextColor3 = Color3.fromRGB(0, 0, 0)
+DickArtButton.TextScaled = true
+DickArtButton.TextSize = 14.000
+DickArtButton.TextWrapped = true
+DickArtButton.MouseButton1Down:Connect(function()
+	local args = {
+		[1] = "\226\154\171",
+		[2] = "All"
+	}
+
+	game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+
+	local args = {
+		[1] = "\226\154\171\226\154\171\226\154\171\226\154\171\226\154\171\226\154\171\240\159\148\180",
+		[2] = "All"
+	}
+
+	game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+
+	local args = {
+		[1] = "\226\154\171",
+		[2] = "All"
+	}
+
+	game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+end)
+
+UICorner_57.Parent = DickArtButton
+
+BlackFaceArtButton.Name = "BlackFaceArtButton"
+BlackFaceArtButton.Parent = EmojiArtFrame
+BlackFaceArtButton.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+BlackFaceArtButton.Position = UDim2.new(0.214899704, 0, 0.235294119, 0)
+BlackFaceArtButton.Size = UDim2.new(0, 198, 0, 24)
+BlackFaceArtButton.Font = Enum.Font.GothamBlack
+BlackFaceArtButton.Text = "Black Face"
+BlackFaceArtButton.TextColor3 = Color3.fromRGB(0, 0, 0)
+BlackFaceArtButton.TextScaled = true
+BlackFaceArtButton.TextSize = 14.000
+BlackFaceArtButton.TextWrapped = true
+BlackFaceArtButton.MouseButton1Down:Connect(function()
+	local args = {
+		[1] = "\226\154\171\226\154\171\226\154\171\226\154\171\226\154\171\226\154\171\226\154\171",
+		[2] = "All"
+	}
+
+	game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+
+	local args = {
+		[1] = "\226\154\171\226\154\170\226\154\171\226\154\171\226\154\171\226\154\170\226\154\171",
+		[2] = "All"
+	}
+
+	game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+
+
+	local args = {
+		[1] = "\226\154\171\226\154\171\226\154\171\226\154\171\226\154\171\226\154\171\226\154\171",
+		[2] = "All"
+	}
+
+	game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+
+	local args = {
+		[1] = "\226\154\171\226\154\171\240\159\148\180\240\159\148\180\240\159\148\180\226\154\171\226\154\171",
+		[2] = "All"
+	}
+
+	game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+end)
+
+UICorner_58.Parent = BlackFaceArtButton
+
+LArtButton.Name = "LArtButton"
+LArtButton.Parent = EmojiArtFrame
+LArtButton.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+LArtButton.Position = UDim2.new(0.214899704, 0, 0.436274529, 0)
+LArtButton.Size = UDim2.new(0, 198, 0, 24)
+LArtButton.Font = Enum.Font.GothamBlack
+LArtButton.Text = "L"
+LArtButton.TextColor3 = Color3.fromRGB(0, 0, 0)
+LArtButton.TextScaled = true
+LArtButton.TextSize = 14.000
+LArtButton.TextWrapped = true
+LArtButton.MouseButton1Down:Connect(function()
+	local args = {
+		[1] = "\226\154\171",
+		[2] = "All"
+	}
+
+	game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+
+	local args = {
+		[1] = "\226\154\171",
+		[2] = "All"
+	}
+
+	game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+
+	local args = {
+		[1] = "\226\154\171",
+		[2] = "All"
+	}
+
+	game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+
+	local args = {
+		[1] = "\226\154\171",
+		[2] = "All"
+	}
+
+	game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+
+	local args = {
+		[1] = "\226\154\171\226\154\171\226\154\171\226\154\171",
+		[2] = "All"
+	}
+
+	game:GetService("ReplicatedStorage").DefaultChatSystemChatEvents.SayMessageRequest:FireServer(unpack(args))
+
+end)
+
+
+UICorner_59.Parent = LArtButton
+
+UICorner_60.Parent = CHBSFR
+
+ImageLabel.Parent = CHBSFR
+ImageLabel.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+ImageLabel.BackgroundTransparency = 1.000
+ImageLabel.Position = UDim2.new(0, 0, -0.00387596898, 0)
+ImageLabel.Size = UDim2.new(0, 48, 0, 42)
+ImageLabel.Image = "http://www.roblox.com/asset/?id=8133940122"
+
+UICorner_61.Parent = ImageLabel
+
+xButton.Name = "xButton"
+xButton.Parent = CHBSFR
+xButton.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+xButton.Position = UDim2.new(0.935746491, 0, -0.00387596898, 0)
+xButton.Size = UDim2.new(0, 29, 0, 27)
+xButton.Font = Enum.Font.GothamBlack
+xButton.Text = "x"
+xButton.TextColor3 = Color3.fromRGB(0, 0, 0)
+xButton.TextScaled = true
+xButton.TextSize = 14.000
+xButton.TextWrapped = true
+xButton.MouseButton1Down:Connect(function()
+	GUICHBS:Destroy()
+end)
+
+UICorner_62.Parent = xButton
+
+
+local function VZODS_fake_script()
+	local script = Instance.new('LocalScript', CHBSLISTSEL)
+
+	script.Parent.WordsButton.MouseButton1Down:Connect(function()
+		script.Parent.WordsFrame.Visible = true
+		script.Parent.WordsCAPSFrame.Visible = false
+		script.Parent.SentencesFrame.Visible = false
+		script.Parent.SentencesCAPSFrame.Visible = false
+		script.Parent.EmojiArtFrame.Visible = false
+	end)
+	
+	script.Parent.WordsCAPSButton.MouseButton1Down:Connect(function()
+		script.Parent.WordsFrame.Visible = false
+		script.Parent.WordsCAPSFrame.Visible = true
+		script.Parent.SentencesFrame.Visible = false
+		script.Parent.SentencesCAPSFrame.Visible = false
+		script.Parent.EmojiArtFrame.Visible = false
+	end)
+	
+	script.Parent.SentencesButton.MouseButton1Down:Connect(function()
+		script.Parent.WordsFrame.Visible = false
+		script.Parent.WordsCAPSFrame.Visible = false
+		script.Parent.SentencesFrame.Visible = true
+		script.Parent.SentencesCAPSFrame.Visible = false
+		script.Parent.EmojiArtFrame.Visible = false
+	end)
+	
+	script.Parent.SentencesCAPSButton.MouseButton1Down:Connect(function()
+		script.Parent.WordsFrame.Visible = false
+		script.Parent.WordsCAPSFrame.Visible = false
+		script.Parent.SentencesFrame.Visible = false
+		script.Parent.SentencesCAPSFrame.Visible = true
+		script.Parent.EmojiArtFrame.Visible = false
+	end)
+	
+	script.Parent.EmojiArtButton.MouseButton1Down:Connect(function()
+		script.Parent.WordsFrame.Visible = false
+		script.Parent.WordsCAPSFrame.Visible = false
+		script.Parent.SentencesFrame.Visible = false
+		script.Parent.SentencesCAPSFrame.Visible = false
+		script.Parent.EmojiArtFrame.Visible = true
+	end)
+end
+coroutine.wrap(VZODS_fake_script)()
